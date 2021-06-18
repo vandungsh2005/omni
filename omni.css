@@ -1,0 +1,288 @@
+#div1 {
+    background-image: url("http://www.azselection.lk/images/hero.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    
+    
+}
+#div4 {
+    background-image: url("unknown.png" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    
+}
+#div2 {
+    height: 600px;
+    padding-top: 50px;
+}
+#div3 {
+    padding-top:50px;
+}
+#div5 {
+    padding-top:50px;
+    height: 700px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#div6 {
+    height: 700px;
+    padding-top: 50px;
+    background-color: rgb(228, 226, 226);
+}
+#div7 {
+    height: 600px;
+    padding-top: 50px;
+    padding-left: 570px;
+}
+#img1 {
+    padding-left: 200px;
+    
+}
+#box1 {
+    border: white solid;
+    height: 400px;
+    width: 270px;
+}
+#box2 {
+    border: white solid;
+    height: 400px;
+    width: 270px;
+}
+#box3 {
+    border: white solid;
+    height: 400px;
+    width: 270px;
+}
+#box4 {
+    border: white solid;
+    height: 400px;
+    width: 270px;
+}
+#box12 {
+    border: white solid;
+    height: 300px;
+    width: 270px;
+}
+#box22 {
+    border: white solid;
+    height: 300px;
+    width: 270px;
+}
+#box32 {
+    border: white solid;
+    height: 300px;
+    width: 270px;
+}
+#box42 {
+    border: white solid;
+    height: 300px;
+    width: 270px;
+}
+#plan1 {
+    
+    background-color: white;
+    height: 550px;
+    width: 270px;
+}
+#plan2 {
+   
+    background-color: white;
+    height: 550px;
+    width: 270px;
+}
+#plan3 {
+    
+    background-color: white;
+    height: 550px;
+    width: 270px;
+}
+#blank {
+    height: 350px;
+    width: 100px;
+}
+#blank2 {
+  
+    height: 350px;
+    width: 30px;
+}
+#city {
+    color: gray;
+}
+#eaters {
+    color: gray;
+}
+#chefs {
+    color: gray;
+}
+#twitter {
+    color: orange;
+}
+#none {
+    color: white;
+}
+#lilline1 {
+    display: inline-flex;
+    padding-right: 30px;
+}
+#lilline2 {
+    display: inline-flex;
+    padding-right: 50px;
+}
+#lilline3 {
+    display: inline-flex;
+}
+#div0 {
+    display: inline-flex;
+}
+#line1 {
+    display: inline-flex;
+    padding-right: 40px;
+}
+#line2 {
+    display: inline-flex;
+}
+#line3 {
+    display: inline-flex;
+}
+#twoblocks {
+    display: inline-flex;
+    padding-left: 200px;
+}
+#fourblocks {
+    display: inline-flex;
+    padding-left: 108px;
+}
+#fourblocks2 {
+    display: inline-flex;
+    padding-left: 100px;
+}
+#threeblocks {
+    display: inline-flex;
+    padding-left: 200px;
+}
+#lines {
+    display:block;
+    padding-top: 100px;
+    padding-left: 70px;
+}
+#button0 {
+    display:inline-flex;
+}
+#download {
+    padding-top: 30px;
+}
+button {
+    border-radius: 40px;
+    border: solid orange;
+}
+#hungry {
+    background-color: orange;
+    color: white;
+    padding: 0 30px;
+}
+#underline{
+    color:gray;
+}
+#sign1 {
+    background-color: orange;
+    color: white;
+    padding: 0 100px;
+}
+#sign2 {
+    background-color: transparent;
+    color: orange;
+    padding: 0 100px;
+}
+#show {
+    background-color: transparent;
+    padding: 0 35px;
+    color: orange;
+}
+#p1 {
+    color: white;
+    font-size: 40px;
+}
+#p2 {
+    color: gray;
+    text-align: center;
+}
+
+#p2h3 {
+    color: gray;
+    padding-left: 390px;
+}
+#p4h3 {
+    color: gray;
+}
+h4 {
+    color: gray;
+}
+#price {
+    color:orange;
+}
+
+#line {
+    color: orange;
+    text-align: center;
+}
+
+#div00 {
+    padding-top: 100px;
+    padding-left: 200px;
+}
+#in4 {
+    border: white solid;
+    height: 500px;
+}
+#name {
+    display:inline-flex;
+}
+#opacity {
+    color:rgb(206, 206, 206)
+}
+#jav {
+    border: gray solid;
+    width: 500px;
+}
+#jav2 {
+    border: white solid;
+    width: 500px;
+    display: inline-flex;
+}
+#jav3 {
+    border: gray solid;
+    width: 500px;
+    height:70px;
+}
+#content {
+    font-size: large;
+    color: gray;
+}
+#invisible {
+    border: white solid;
+    width: 250px;
+}
+#invisible2 {
+    border: white solid;
+    width: 137px;
+}
+#invisible3 {
+    border: white solid;
+    width: 215px;
+}
+#invisible4 {
+    border: white solid;
+    width: 192px;
+}
+
+
+.btn-6 a{overflow: hidden; z-index:2}
+.btn-6 a:before{position:absolute; right:100%; top:0; width:100%; height:100%; background-color:#a94646; z-index:-1; opacity:0; -webkit-transition:all .2s ease-out; -o-transition:all .2s ease-out; transition:all .2s ease-out; border-right:2px solid #ffe800;}
+.btn-6 a:hover:before{opacity:1; right:0;}
+nav{max-width:800px; margin:0 auto; height:50px; line-height:50px; font-size:0;}
+nav a{position:relative; display:inline-block; padding:0 30px; color:rgb(0, 0, 0); font-size:14px; letter-spacing:-.5px; text-decoration:none;}
+
+nav a:hover{color:#ffe800;}
+.btn-6 a:before,
